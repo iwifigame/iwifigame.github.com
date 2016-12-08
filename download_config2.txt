@@ -1,5 +1,4 @@
 [
     { "aliyun" : "http://iwifigame.oss-cn-shanghai.aliyuncs.com/"},
-    { "qcloud" : "http://iwifigame-10064779.cos.myqcloud.com/"},
     { "sae" : "http://applejdaystorage-applejday.stor.sinaapp.com/"}
 ]
