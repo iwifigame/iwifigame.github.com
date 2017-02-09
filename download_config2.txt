@@ -1,4 +1,3 @@
 [
-    { "aliyun" : "http://iwifigame.oss-cn-shanghai.aliyuncs.com/"},
-    { "sae" : "http://applejdaystorage-applejday.stor.sinaapp.com/"}
+    { "aliyun" : "http://iwifigame.oss-cn-shanghai.aliyuncs.com/"}
 ]
